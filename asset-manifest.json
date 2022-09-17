@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/icannovate_app/static/css/main.eab71ee2.css",
+    "main.js": "/icannovate_app/static/js/main.c10befc7.js",
+    "static/js/787.935c96f1.chunk.js": "/icannovate_app/static/js/787.935c96f1.chunk.js",
+    "index.html": "/icannovate_app/index.html",
+    "main.eab71ee2.css.map": "/icannovate_app/static/css/main.eab71ee2.css.map",
+    "main.c10befc7.js.map": "/icannovate_app/static/js/main.c10befc7.js.map",
+    "787.935c96f1.chunk.js.map": "/icannovate_app/static/js/787.935c96f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab71ee2.css",
+    "static/js/main.c10befc7.js"
+  ]
+}
